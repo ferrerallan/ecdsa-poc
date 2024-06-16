@@ -8,6 +8,9 @@ This project demonstrates how the Elliptic Curve Digital Signature Algorithm (EC
 - Python 3.6 or higher
 - The following Python packages (can be installed via `pip`):
   - `ecdsa`
+  - `eth-hash`
+  - `eth-keys`
+  - `pycryptodome`
 
 ## Mode of Use
 
